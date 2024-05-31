@@ -1,6 +1,7 @@
 # Dice Game
 ## Overview
-
+ - Simple interactive game developed using HTML, CSS, and JavaScript.
+ - Implements random dice roll functionality and score tracking.
 ## Technologies Used
   - HTML
   - CSS
